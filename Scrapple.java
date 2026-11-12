@@ -1,10 +1,3 @@
-/**
- *  A simple version of the Scrabble game where the user plays against the computer.
- *
- *  @author	Sanvitti Shah REMOVE LATER AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAa
- *  @since	Nov 9, 2026
- */
-
 public class Scrapple {
 	
 	public int [] scores = {1, 3, 3, 2, 1, 4, 2, 4, 1, 8, 5, 1, 3, 1, 1, 3, 10,

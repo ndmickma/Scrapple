@@ -2,19 +2,6 @@ import java.io.BufferedReader;
 import java.io.InputStreamReader;
 import java.io.IOException;
 
-/**
- *	Prompt.java - Uses BufferedReader.
- *	Provides utilities for user input.  This enhances the BufferedReader
- *	class so our programs can recover from "bad" input, and also provides
- *	a way to limit numerical input to a range of values.
- *
- *	The advantages of BufferedReader are speed, synchronization, and piping
- *	data in Linux.
- *
- *	@author	Sanvitti Shah REMOVE LATER AAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
- *	@since	September 1, 2026
- */
-
 public class Prompt
 {
 	// BufferedReader variables

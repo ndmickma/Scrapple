@@ -1,18 +1,3 @@
-
-/**
- *	Provides utilities for word games:
- *	1. gets a list of only letters from user
- *	2. finds all words in the dictionary that match a list of letters
- *	3. prints an array of words to the screen in table format
- *	4. finds the word from an array of words with the highest score
- *		according to a table
- *
- *	Uses the FileUtils and Prompt classes.
- *	
- *	@author Sanvitti Shah REMOVE LATERRR AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
- *	@since	10/27/26
- */
-
 import java.util.Scanner;
  
 public class WordUtils

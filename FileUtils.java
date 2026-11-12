@@ -2,12 +2,6 @@ import java.io.PrintWriter;
 import java.io.File;
 import java.io.FileNotFoundException;
 
-/**
- *File Utilities for reading and wrting
- *
- * @author Sanvitti Shah REMOVE LATERRR AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
- * @since August 20th, 2026
- */
 public class FileUtils
 {
 	/**
